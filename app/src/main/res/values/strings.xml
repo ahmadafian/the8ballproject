@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The 8 Ball Project</string>
+    <string name="btn_ask">Ask Me Now</string>
+    <string name="text_title_banner">Make my decisions easier!!!</string>
+</resources>
